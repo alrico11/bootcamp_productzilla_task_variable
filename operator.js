@@ -1,9 +1,10 @@
 //SOAL NOMER SATU
 let angka = 1+2+3
-let angka1 = 11+22+33
-let angka2 = 111+222+333
-let angka3 = 1111+2222+3333
-let angka4 = 11111+22222+33333
+let angka1 = 11-22-33
+let angka2 = 111*222*333
+let angka3 = 1111/2222/3333
+let angka4 = 10%4%2
+
 console.log("Hasil ",angka)
 console.log("Hasil ",angka1)
 console.log("Hasil ",angka2)
